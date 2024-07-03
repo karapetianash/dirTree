@@ -37,6 +37,9 @@ go run main.go . -f
 	├───zline
 	│	└───empty.txt (empty)
 	└───zzfile.txt (empty)
+```
+
+```
 go run main.go .
 └───testdata
 	├───project
